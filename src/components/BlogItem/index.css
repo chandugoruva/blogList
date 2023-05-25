@@ -1,0 +1,23 @@
+.title {
+  color: #12022f;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+.publishedDate {
+  color: #9aa5b1;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.description {
+  color: #9aa5b1;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.for-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
